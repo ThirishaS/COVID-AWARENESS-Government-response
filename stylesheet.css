@@ -1,0 +1,21 @@
+.header-logo{
+    border-bottom: 3px solid rgb(202, 175, 175);
+    font-size: 25px;
+    color: red;
+}
+.section h2{
+    border-bottom: 2px solid rgb(202, 175, 175);
+    color: seagreen;
+    font-size: 30px;
+}
+.section ul{
+    font-size: 20px;
+}
+.container ul{
+    font-size: 20px;
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ZKApOJayfrLmcx5ehSjI0smi_KHR8Q5Kfg&usqp=CAU);
+    background-size: cover;
+   
+}
